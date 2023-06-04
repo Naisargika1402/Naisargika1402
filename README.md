@@ -9,10 +9,10 @@
 
 - 📫 Mail me @ *naisargikasubudhi2003@gmail.com*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+**Connect With Me:** 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naisargika-subudhi-971915257/)
-</p>
+
 
 **Tech Stack:**
 
